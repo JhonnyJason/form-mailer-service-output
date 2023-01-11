@@ -125,6 +125,13 @@
  */
 
 /*!
+ * is-plain-object <https://github.com/jonschlinkert/is-plain-object>
+ *
+ * Copyright (c) 2014-2017, Jon Schlinkert.
+ * Released under the MIT License.
+ */
+
+/*!
  * media-typer
  * Copyright(c) 2014 Douglas Christopher Wilson
  * MIT Licensed
@@ -246,5 +253,7 @@
  * Copyright(c) 2014-2017 Douglas Christopher Wilson
  * MIT Licensed
  */
+
+/*! noble-ed25519 - MIT License (c) 2019 Paul Miller (paulmillr.com) */
 
 /*! safe-buffer. MIT License. Feross Aboukhadijeh <https://feross.org/opensource> */
